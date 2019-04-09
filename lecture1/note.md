@@ -15,7 +15,7 @@
 - exploration
 
 ### 什么是policy?
-将过去的经验映射为action;将当前状态映射为action。
+将当前状态映射为action。
 
 ### 为什么不通过规则制定policy?
 有时候状态非常大或者无限的。
